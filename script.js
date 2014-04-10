@@ -47,8 +47,9 @@
 		   	document.body.appendChild(motionDiv);
 	    	motionDiv.style.display = "inline-block";
 	    	motionDiv.style.float ="left";
+	    	motionDiv.style.marginTop="-5px";
 	    	motionDivImg.style.width ="144px";
-	    	motionDivImg.style.height = "120px";
+	    	motionDivImg.style.height = "110px";
 	    	motionDivImg.style.marginTop="-30px";
 	    	motionDivImg.style.display = "inline-block";
 	    	motionDivImg.style.float ="left";
