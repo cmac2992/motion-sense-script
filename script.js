@@ -61,7 +61,7 @@
 		    if (lastUpdatedTime + 900000 >= currentDateTime){
 		    	motionDivImg.id = "motionImg";
 		    	motionDiv.id = "motionTxt";
-		    	motionDiv.innerHTML="<h5>We are here. Join us!</h5>";
+		    	motionDiv.innerHTML="<h5>We are here. Come join us!!!</h5>";
 		    	motionDivImg.innerHTML="<img src ='active.gif'>";
 		    }
 		    else if (lastUpdatedTime + 900000 < currentDateTime){
